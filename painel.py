@@ -1,0 +1,6 @@
+print("Atendimentos")
+fila = ("senha 0", "senha 1", "senha 2", "senha 3")
+print(f"O Proximo paciente a ser atendido é: {fila[0]}")
+print(f"O Proximo paciente a ser atendido é: {fila[1]}")
+print(f"O Proximo paciente a ser atendido é: {fila[2]}")
+print(f"O Proximo paciente a ser atendido é: {fila[3]}")
